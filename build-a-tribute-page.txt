@@ -1,0 +1,348 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title id="title">German Shepards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 class="heading"> Everything about your favorite dog, <i>German Shepards</i></h1>
+        <p id="heading-info">
+            The German Shepard is one the worlds most popular dog breeds! They're intelligent and brilliant working dogs.
+            The breed is usually known as German Shepard but also goes by the name Alsation.
+            Let's learn a bit more about them!
+        </p>
+        <div>
+            <img id="heading-img" src="https://cdn1.playbarkrun.com/wp-content/uploads/2018/05/28100359/german-shepherd-names.jpg">
+        </div>
+        
+    </header>
+    <main id ="main">
+        
+        <section>
+            <div id="history-h2">
+                <h2><u> History of German Shepards</u></h2>
+            </div>
+                <div id="tribute-info">
+                    <p>The breed was developed by <a id="tribute-link" href="https://en.wikipedia.org/wiki/Max_von_Stephanitz" target="_blank">Max von Stephanitz</a> using various traditional German herding dogs from 1899. 
+                    <br>It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, 
+                    including disability assistance, search-and-rescue, police work, and warfare.
+                    <br> breed was named Deutscher Schäferhund, by von Stephanitz, literally translating to "German Shepherd Dog".
+                    At the time, all other herding dogs in Germany were referred to by this name; they thus became known as Altdeutsche Schäferhunde, or old German herding dogs.
+                    </p>
+                </div>
+                <div id="img-div2">
+                    <img id="img" src="https://gsdca.org/images/GSD/max.jpg">
+                </div>
+           
+        </section>
+        <section>
+            <div id="personality-h2">
+                <h2><u>Personality</u></h2>
+            </div>
+            <div id ="personality">
+                <p>
+                The German Shepherd personality is aloof but not usually aggressive. 
+                They're reserved dogs; they don't make friends immediately, but once they do, they're extremely loyal. 
+                With their family, they're easy-going and approachable, but when threatened, they can be strong and protective, making them excellent watchdogs. <br>
+                
+                
+                    This highly intelligent and trainable breed thrives on having a job to do any job. 
+                    The German Shepherd can be trained to do almost anything, from alerting a deaf person to a doorbell ring to sniffing out an avalanche victim.
+                
+                
+                    <br>One thing they're not good at is being alone for long periods of time. Without the companionship 
+                    they need—as well as exercise and the chance to put their intelligence to work they become bored and frustrated. 
+                    A German Shepherd who's under-exercised and ignored by their family is likely to express pent-up energy in ways you don't like, such as barking and chewing.
+                </p>
+            </div>
+        </section>
+            <section>
+                <div id ="personality_list">
+                    <p>
+                        Here are 5 personality traits you can be sure to expect from a German Shepard:
+                    </p>
+                    <ol>
+                        <li><u><b>Loyal</b></u></li>
+                        <li><u><b>Playful</b></u></li>
+                        <li><u><b>Protective</b></u></li>
+                        <li><u><b>Energetic</b></u></li>
+                        <li><u><b>Brave</b></u></li>
+                    </ol>
+                </div>
+            <aside>
+                <p>
+                    Here are some helpful links to help care for German Shepards with issues mentioned above:
+                </p>
+                <nav>
+                    <ul>
+                        <li><a href="https://dogtime.com/lifestyle/dog-activities/4931-fun-with-pets-ernest-ward" target="_blank">Bored Dog?</a></li>
+                        <li><a href="https://dogtime.com/dog-health/fitness/49-exercise-needs" target="_blank">Exercise Needs</a></li>
+                        <li><a href="https://dogtime.com/dog-health/dog-behavior/12-barking" target="_blank">Barking</a></li>
+                        <li><a href="https://dogtime.com/dog-health/fitness/21-chewing-digging-behavior"target="_blank">Destructive Chewing &amp; Digging</a></li>
+                    </ul>
+                </nav>
+            </aside>
+            </section>
+            <section>
+                <div>
+                    <h2 id="variants"><u>Variants</u></h2>
+                    <p id="table-intro">Here is a list of different variants of German Shepards and their differences(Dogs only):</p>
+                </div>
+                <div>
+                    <table id="variant-table">
+                        <thead>
+                            <tr>
+                                <th>Variant</th>
+                                <th>Average Weight(kg)</th>
+                                <th>Average Height(cm)</th>
+                                <th>Average Life Span</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>German Shepard</td>
+                                <td>30-40kg</td>
+                                <td>60-65cm</td>
+                                <td>9-13 years</td>
+                            </tr>
+                            <tr>
+                                <td>White Shepard</td>
+                                <td>34-36kg</td>
+                                <td>64cm</td>
+                                <td>12-14 years</td>
+                            </tr>
+                            <tr>
+                                <td>Swiss Shepard</td>
+                                <td>30-40kg</td>
+                                <td>60-66cm</td>
+                                <td>10+ years</td>
+                            </tr>
+                            <tr>
+                                <td>Dutch Shepard</td>
+                                <td>30-40kg</td>
+                                <td>57-62cm</td>
+                                <td>8-15years</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="img-div">
+                    <figure id="white-fig">
+                        <img id="image" class="column" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kandestack_62406.jpg">
+                        <figcaption id="img-caption">
+                        <b>White Shepard</b>
+                        </figcaption>
+                    <figure>
+                        <img id="swiss-shepard" class="column" src="https://brit-petfood.com/file/nodes/product/bilysvycarskyovcak.jpg/294x294/FIT">
+                  
+                        <figcaption id="swiss-caption">
+                            <b>Swiss Shepard</b>
+                        </figcaption>
+                    </figure>
+                    <figure>
+                        <img id="dutch-shepard" class="column" src="https://www.thesprucepets.com/thmb/6OtI0rcQZP3p_IJZTHcMZ0Iy4BY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TamaraHarding3-85d86a7c48774777aec4f39191d27b68.jpg">
+                        
+                        <figcaption id="dutch-caption">
+                            <b>Dutch Shepard</b>
+                        </figcaption>
+                    </figure>
+                </div>
+            </section>
+    </main>
+    
+</body>
+</html>
+
+
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+    font-family:sans-serif;
+    background-color: #6F7D8C;
+    
+}
+header{
+    background: linear-gradient(110deg, #C0C0C0 80%, #6F7D8C 40%);
+    position: relative;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    padding: 5%;
+}
+h1{
+    margin-left: 5%;
+    font-size: 300%;
+}
+#heading-info{
+    position: relative;
+    left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:125%;
+    position: relative;
+    top: 25px;
+    left: 15px;
+
+}
+#heading-img{
+    width: 30em;
+    height: 20em;
+    position: absolute;
+    left: 2200px;
+    top: 100px;
+
+    
+    border-radius: 50%;
+}
+main{
+    background-color: #6F7D8C;
+    border-style: solid;
+    border-width: mm;
+}
+#history-h2{
+    position: relative;
+    left: 38%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:200%
+}
+#tribute-info{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20%;
+    background-color: #C0C0C0;
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+#img{
+    position: relative;
+    left: 43.5%;
+    border-radius: 20%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+#personality-h2{
+    position: relative;
+    left: 43%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:200%;
+    
+    
+}
+#personality{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20%;
+    background-color: #C0C0C0;
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    
+}
+#personality_list{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    text-align: center;
+    list-style-position: inside;
+    background-color: #C0C0C0;
+    width: 30%;
+    position: relative;
+    left: 12%;
+    bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+aside{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    width: 30%;
+    text-align: center;
+    list-style-position: inside;
+    position: relative;
+    bottom: 170px;
+    left: 1700px;
+    background-color: #C0C0C0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#variants{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:270%;
+    position: relative;
+    left: 44%;
+    
+}
+#variant-table{
+    position: relative;
+    left: 38%;
+    
+}
+table,th,td{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+
+}
+th,td{
+    padding: 2%;
+}
+#table-intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    position: relative;
+    left: 36%;
+}
+#img-div{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+   
+#image{
+    display:block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+#img-caption{
+    position: relative;
+    left: 43.5%;
+    font-size: 150%;
+}
+
+#swiss-shepard{
+    display:block;
+    width: 17.5%;
+    position: relative;
+    left: 37%;
+   
+}
+#swiss-caption{
+    position: relative;
+    left: 43.5%;
+    font-size: 150%;
+}
+#dutch-shepard{
+    display: block;
+    width: 600px;
+    position: relative;
+    left: 36.5%;
+}
+#dutch-caption{
+    position: relative;
+    left: 43.5%;
+    font-size: 150%;
+}
+
+
+** end of undefined **
+
